@@ -1,0 +1,44 @@
+.footer {
+    background-color: rgb(130, 90, 90);
+    margin-top: 600px;
+}
+
+
+.footer img {
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav {
+
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+.nv a {
+    text-decoration: none;
+}
+
+.copyright {
+    margin-top: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 100px;
+
+}
+
+.line {
+    margin-top: 50px;
+    background-color: bisque;
+    width: 100%;
+    height: 2px;
+}

@@ -1,0 +1,36 @@
+.header {
+
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+.logo {
+    color: white;
+    background-color: rgb(242, 162, 92);
+    width: 74px;
+    height: 44px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header a {
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 20px;
+}
+
+.contact-nav {
+    margin-right: 240px;
+
+}
+
+.header a:hover {
+    color: orange;
+}

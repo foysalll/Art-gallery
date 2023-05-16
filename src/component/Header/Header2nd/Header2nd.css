@@ -1,0 +1,51 @@
+.hero {
+    display: flex;
+    justify-content: space-between;
+    height: 700px;
+}
+
+.Recovery-part {
+    height: 318px;
+    /* width: 791px; */
+    margin-top: 150px;
+    margin-left: 140px;
+    /* background-color: brown; */
+
+}
+
+.Recovery-part h6 {
+    font-size: 24px;
+}
+
+.Recovery-part h1 {
+    width: 791px;
+    font-size: 96px;
+}
+
+.Recovery-part p {
+    font-size: 16px;
+}
+
+.recovery {
+    text-decoration: underline;
+    text-underline-position: left;
+}
+
+.Dark-flower {
+    margin-top: 110px;
+    margin-left: 100px;
+    margin-right: 340px
+}
+
+.Dark-flower img {
+    height: 356px;
+    width: 230px;
+}
+
+.Dark-flower p {
+    font-size: 12px;
+}
+
+.Dark-flower h2 {
+    font-size: 18px;
+}
